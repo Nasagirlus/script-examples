@@ -24,7 +24,7 @@ then
   exit 2
 fi
 
-echo "Hello ${na} ypou were born in ${y}. you live in ${city} and the reason for coming here is : ${R}"
+echo "Hello ${na} you were born in ${y}. you live in ${city} and the reason for coming here is : ${R}"
 
 ## man test allow you to see valu in arithmetics
     
